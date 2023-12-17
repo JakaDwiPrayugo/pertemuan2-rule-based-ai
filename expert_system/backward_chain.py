@@ -42,3 +42,5 @@ if __name__ == "__main__":
     plant_expert = BackwardChainingPlantExpert()
     plant_expert.add_fact("Gelap pada Batang")  
     plant_expert.diagnose()
+
+# Jaka Dwi Prayugo
